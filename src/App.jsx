@@ -110,7 +110,7 @@ function App() {
                     Saya adalah seorang mahasiswa <strong>Sistem Informasi</strong> yang sangat antusias mengeksplorasi dunia pengembangan web. Saat ini, fokus saya adalah terus belajar dan mengasah skill fundamental menggunakan teknologi seperti <strong>Laravel, React, dan Python</strong>.
                   </p>
                   <p>
-                    Bagi saya, *coding* adalah tentang memecahkan masalah. Di luar mengerjakan tugas kuliah, saya aktif menyalurkan kreativitas dengan mengembangkan *script* mekanik menggunakan <strong>Lua di Roblox Studio</strong>, serta memproduksi konten video digital.
+                    Bagi saya, coding adalah tentang memecahkan masalah. Di luar mengerjakan tugas kuliah, saya aktif menyalurkan kreativitas dengan mengembangkan script mekanik menggunakan <strong>Lua di Roblox Studio</strong>, serta memproduksi konten video digital.
                   </p>
                   <div className="about-actions">
                     <a href="#" className="btn-primary"><Download size={18} /> Download CV</a>
