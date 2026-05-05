@@ -100,7 +100,7 @@ function App() {
             <motion.div initial="hidden" whileInView="visible" viewport={{ once: true, amount: 0.2 }} variants={fadeIn}>
               <div className="section-header-center">
                 <h2>About Me</h2>
-                <p>✨ Transforming ideas into digital experiences ✨</p>
+                <p> Transforming ideas into digital experiences </p>
               </div>
               
               <div className="about-content-grid">
